@@ -1203,8 +1203,8 @@
   },
   {
     "link": "bugreport",
-    "type": null,
-    "description": null,
+    "type": "Form",
+    "description": "Report a bug - Submit a request",
     "redirect": "https://support.discord.com/hc/requests/new?ticket_form_id=360006586013",
     "usefulness": null
   },
